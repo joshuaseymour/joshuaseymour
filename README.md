@@ -7,69 +7,64 @@ I build transformative digital communities and positive-sum ecosystems—functio
 
 ## 🚀 Neothink DAO (Intrapreneurship)
 
-A monorepo of four synergistic Next.js apps—each designed for ambitious, growth-oriented individuals at any stage, all united by flawless positive-sum game theory and a shared Supabase database.
+A monorepo of four synergistic Next.js apps—each with its own token and unique path to human flourishing, all sharing a unified Supabase backend.
 
-### The Four Archetypes
+### The Four Apps & Tokens
 
-| Platform      | For Whom?         | Core Value/Outcome                        | Game Mechanics & Tokenomics             |
-|---------------|-------------------|-------------------------------------------|-----------------------------------------|
-| Ascenders     | Value Creators    | Prosperity & business mastery             | Earn LUCK & LIVE tokens, XP, badges, streaks, referrals, team rewards ([details](https://github.com/neothink-dao/neothink.io/blob/main/docs/onboarding/ascender.md)) |
-| Neothinkers   | Integrated Thinkers| Happiness & genius-level thinking         | Earn LOVE & XP, mastery levels, badges, streaks, collaborative learning ([details](https://github.com/neothink-dao/neothink.io/blob/main/docs/onboarding/neothinker.md)) |
-| Immortals     | Self-Leaders      | Longevity & healthspan                    | Earn LIFE tokens & XP, health quests, streaks, wellness challenges ([details](https://github.com/neothink-dao/neothink.io/blob/main/docs/onboarding/immortal.md)) |
-| Superachievers| All-in-Ones       | Master all journeys—prosperity, happiness, longevity | Earn all tokens, cross-platform XP, unique badges, leadership rewards ([details](https://github.com/neothink-dao/neothink.io/blob/main/docs/onboarding/superachiever.md)) |
-| Neothink+ Hub | Everyone          | Unified dashboard, synergy, and progression | Freemium access, gamified leaderboards, unlock deeper journeys |
+| App           | Token | Core Theme      | Outcome                       |
+|---------------|-------|-----------------|-------------------------------|
+| Ascenders     | LIVE  | Prosperity      | Build wealth & business mastery |
+| Neothinkers   | LOVE  | Happiness       | Unlock genius & fulfillment   |
+| Immortals     | LIFE  | Longevity       | Maximize health & lifespan    |
+| Neothink+ Hub | LUCK  | Prosper Happily Forever | Synergy, cross-app rewards   |
 
-**Flawless Positive-Sum Game Design:**  
-- Every action—learning, building, collaborating—earns tokens and XP for the user, their team, and the ecosystem.
-- Progress is portable across all apps and archetypes.
-- Streaks, referrals, group quests, and leaderboards multiply rewards for everyone.
-- No zero-sum or extractive mechanics—everyone can win, and your success lifts others.
+**One Purpose:** Prosper Happily Forever  
+**Two Missions:** Individual & Collective  
+**Three Visions:** Prosperity, Happiness, Longevity  
+**Four Goals:** Ascender, Neothinker, Immortal, Superachiever
 
-**Immediate Onboarding & Engagement:**  
-- Personalized onboarding quests for each archetype.
-- Instant rewards, clear progression, and visible next steps from day one.
-- Weekly live events (Zooms) for each archetype to boost engagement and community.
+- Each app is a progressive journey—beginner to advanced—where every action earns tokens, XP, badges, and unlocks new features.
+- Neothink+ Hub unifies your experience, enabling synergy and rewards across all apps.
 
 ---
 
 ## 🌌 Avolve DAO (Entrepreneurship)
 
-Avolve is a standalone, interoperable platform for Superachievers and Regen leaders to co-create their “superpuzzle” and shape the future—open to all levels, with a journey that adapts and grows with you.
+Avolve DAO is a standalone but interoperable platform focused on building the Supercivilization—a positive-sum, regenerative future.
 
-**Avolve’s Game & Tokenomics:**
-- Personal and collective quests to evolve from Degen (zero-sum) to Regen (positive-sum).
-- GEN, SAP, SCQ, and specialized tokens power individual, group, and ecosystem achievements.
-- Every action—personal, business, or collective—feeds into a regenerative, DAO-governed economy.
-- Marketplace for services, access, and digital goods; governance by token holders.
+### Avolve Tokens & Structure
 
----
+| Layer/Focus           | Token | Purpose/Outcome                                      |
+|-----------------------|-------|-----------------------------------------------------|
+| Supercivilization     | GEN   | The main token powering the ecosystem                |
+| Individual View       | SAP   | Superachiever: Personal transformation              |
+| Collective View       | SCQ   | Superachievers: Collective co-creation              |
+| Personal Success      | PSP   | Personal Success Puzzle                             |
+| Business Success      | BSP   | Business Success Puzzle                             |
+| Supermind Superpowers | SMS   | Unlock advanced problem-solving & action            |
+| Superpuzzle Devs      | SPD   | Drive grand collective progress                     |
+| Superhuman Enhance.   | SHE   | Support superhuman growth for all ages              |
+| Supersociety Adv.     | SSA   | Advance companies, communities, and countries       |
+| Supergenius Breakth.  | SGB   | Fuel innovation and ecosystem breakthroughs         |
 
-## 🌐 Network State Vision
-
-Neothink DAO and Avolve DAO are proto-network states: digitally native, values-driven communities with the potential to evolve into fully sovereign, self-governing entities.  
-Each archetype and platform is a building block for a new kind of society—wealthiest, happiest, healthiest, and most regenerative—powered by flawless positive-sum game theory.
-
----
-
-## 🏆 My Roles
-
-- **Intrapreneur (Neothink DAO):**  
-  - Architecting and scaling platforms within an established vision.
-  - Driving innovation, onboarding, and internal growth.
-- **Entrepreneur (Avolve DAO):**  
-  - Founding, leading, and evolving a new regenerative ecosystem.
-  - Building from scratch, driving adoption, and shaping governance.
+**One Focus:** Supercivilization (GEN)  
+**Two Views:** Individual Superachiever (SAP) & Collective Superachievers (SCQ)  
+**Three Keys:** Personal Success Puzzle (PSP), Business Success Puzzle (BSP), Supermind Superpowers (SMS)  
+**Four Cores:** Superpuzzle Developments (SPD), Superhuman Enhancements (SHE), Supersociety Advancements (SSA), Supergenius Breakthroughs (SGB)
 
 ---
 
-## 📈 What’s Next?
+## 🗺️ Ecosystem Visuals
 
-- [Learn more about Neothink DAO](https://github.com/neothink-dao/neothink.io)
-- [Discover Avolve DAO](https://github.com/avolve-dao/avolve)
-- [Connect with Joshua Seymour](https://www.joshuaseymour.com)
+### Neothink DAO: LUCK Unifies LIVE, LOVE, LIFE
 
----
+```mermaid
+graph TD
+  LUCK("Neothink+ Hub<br/>LUCK<br/>(Prosper Happily Forever)")
+  LIVE("Ascenders<br/>LIVE<br/>(Prosperity)")
+  LOVE("Neothinkers<br/>LOVE<br/>(Happiness)")
+  LIFE("Immortals<br/>LIFE<br/>(Longevity)")
 
-> **Curious?**  
-> Explore a platform. Join a call. Reach out directly.  
-> The next chapter of networked transformation is just beginning.
+  LUCK --> LIVE
+  LUCK --> LOVE
+  LUCK --> LIFE
