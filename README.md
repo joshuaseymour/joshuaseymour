@@ -22,6 +22,7 @@ I thrive in global, collaborative environments—online and offline—and am alw
 
 ## Table of Contents
 
+- [Neothink DAO: Ecosystem Overview](#neothink-dao-ecosystem-overview)
 - [Avolve: The Supercivilization Journey](#avolve-the-supercivilization-journey)
 - [What You’ll Experience & Why It Matters](#what-youll-experience--why-it-matters)
 - [Technology & Roadmap](#technology--roadmap)
