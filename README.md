@@ -1,5 +1,9 @@
 # Joshua Seymour — Architecting Positive-Sum Network States
 
+> **Neothink DAO: Established communities with thousands of members. New platforms are in testing and will soon launch as major upgrades—empowering you to unlock even more of your potential. Join us as we evolve toward true DAOs/coops, where your participation shapes the future. Leveraging Optimism for scalable, transparent, and secure coordination.**
+
+> **Avolve DAO: A brand new initiative for regen-minded geniuses, entrepreneurs, and builders. Be a founding member and co-create a regenerative, positive-sum society from day one. Pioneering with emerging web3/blockchain technology, including Psibase, to push the boundaries of decentralized communities.**
+
 > Unlock prosperity, happiness, and longevity—join a movement where your genius shapes the future.
 
 > **Join the journey: [Neothink DAO](https://github.com/neothink-dao/neothink.io) for Ascenders, Neothinkers, and Immortals; [Avolve DAO](https://github.com/avolve-dao/avolve.io) for Superachievers.**
@@ -8,15 +12,49 @@
 
 Welcome! I’m Joshua Seymour.
 
-I started these projects to empower individuals and communities to flourish—combining my passion for innovation, decentralized systems, and human potential. I architect and steward digital-physical communities designed to unlock human flourishing—through positive-sum, regenerative, and network state principles. My focus is on building and evolving [Neothink DAO](https://github.com/neothink-dao/neothink.io) (intrapreneurship) and [Avolve DAO](https://github.com/avolve-dao/avolve.io) (entrepreneurship), each with a clear mission, founder, and path to progressive decentralization.
+I started these projects to empower individuals and communities to flourish—combining my passion for innovation, decentralized systems, and human potential. I architect and steward digital-physical communities designed to unlock human flourishing—through positive-sum, regenerative, and network state principles. My focus is on building and evolving [Neothink DAO](https://github.com/neothink-dao/neothink.io) (intrapreneurship, established communities) and [Avolve DAO](https://github.com/avolve-dao/avolve.io) (entrepreneurship, new and launching), each with a clear mission, founder, and path to progressive decentralization.
 
 I thrive in global, collaborative environments—online and offline—and am always open to connecting, co-creating, and relocating for the right opportunities and teams.
 
-**Let's connect! Reach out to me directly at [joshua@joshuaseymour.com](mailto:joshua@joshuaseymour.com) or join our community calls to explore how we can collaborate and create positive impact together.**
+**Let's connect! Reach out via [GitHub Discussions](https://github.com/joshuaseymour/joshuaseymour/discussions), open an issue, or use the contact form on [joshuaseymour.com](https://www.joshuaseymour.com) to explore how we can collaborate and create positive impact together.**
 
 ---
 
-**Quick Start:**
+## Avolve: The Supercivilization Journey
+
+Avolve is designed to help individuals, collectives, and the entire ecosystem transform from Degen (zero-sum) to Regen (positive-sum), unlocking greater health, wealth, and peace for all. The journey is structured as:
+
+- **One Focus:** Supercivilization
+- **Two Views:** Superachiever (individual) & Superachievers (collective)
+- **Three Keys:** Personal Success Puzzle, Business Success Puzzle, Supermind Superpowers
+- **Four Cores:** Superpuzzle Developments, Superhuman Enhancements, Supersociety Advancements, Supergenius Breakthroughs
+
+```mermaid
+flowchart TD
+  GEN[GEN<br/>Supercivilization<br/>(One Focus)]
+  GEN --> SAP[SAP<br/>Superachiever<br/>(Two Views: Individual)]
+  GEN --> SCQ[SCQ<br/>Superachievers<br/>(Two Views: Collective)]
+
+  SAP --> PSP[PSP<br/>Personal Success Puzzle<br/>(Key 1)]
+  SAP --> BSP[BSP<br/>Business Success Puzzle<br/>(Key 2)]
+  SAP --> SMS[SMS<br/>Supermind Superpowers<br/>(Key 3)]
+
+  SCQ --> SPD[SPD<br/>Superpuzzle Developments<br/>(Core 1)]
+  SCQ --> SHE[SHE<br/>Superhuman Enhancements<br/>(Core 2)]
+  SCQ --> SSA[SSA<br/>Supersociety Advancements<br/>(Core 3)]
+  SCQ --> SGB[SGB<br/>Supergenius Breakthroughs<br/>(Core 4)]
+```
+
+**Legend:**  
+- *GEN*: Genius ID, GEN coin/token, Genie AI  
+- *SAP*: Superachiever Playbook, Personal/Business Success  
+- *SCQ*: Supercivilization Quests, collective transformation  
+- *PSP/BSP/SMS*: Three Keys for individual growth  
+- *SPD/SHE/SSA/SGB*: Four Cores for collective and ecosystem advancement
+
+---
+
+## Quick Start:**
 - [Become an Ascender, Neothinker, or Immortal →](https://github.com/neothink-dao/neothink.io)
 - [Join the Superachievers →](https://github.com/avolve-dao/avolve.io)
 
@@ -44,16 +82,32 @@ graph TD
 ## What You’ll Experience & Why It Matters
 
 ### **Neothink DAO: Unlock Your Next Level**
-- **Neothink DAO:** For those who want to unlock their next level of prosperity, happiness, and longevity through community and mastery.
+- **Neothink DAO:** Already home to thousands of members—now evolving. The new platforms are in testing and will soon launch as major upgrades for all. Help us transition to a true DAO/coop and shape the future of your community.
+- **Tech:** Neothink DAO will leverage established web3/blockchain infrastructure, specifically Optimism, for scalable, transparent, and secure coordination.
 - **Ascenders:** For value creators seeking greater prosperity. Build your business, grow your wealth, and join a supportive community of achievers. [Start as an Ascender →](https://github.com/neothink-dao/neothink.io)
 - **Neothinkers:** For integrated thinkers seeking greater happiness. Unlock genius-level thinking, access transformative knowledge, and connect with visionary peers. [Start as a Neothinker →](https://github.com/neothink-dao/neothink.io)
 - **Immortals:** For self-leaders seeking greater longevity. Pursue optimal health, longevity, and join the movement to make death optional. [Start as an Immortal →](https://github.com/neothink-dao/neothink.io)
 - **Neothink+ Hub:** Synergize your journey—earn rewards, access cross-app benefits, and prosper happily forever.
 
 ### **Avolve DAO: Superachievers Wanted**
-- **Avolve DAO:** For Superachievers ready to co-create a regenerative, positive-sum future.
+- **Avolve DAO:** A new initiative for regen-minded, genius-level entrepreneurs and builders. Be a founding member and co-create the Supercivilization from the ground up.
+- **Tech:** Avolve DAO will pioneer with emerging web3/blockchain technology, testing Psibase and other next-gen protocols to push the boundaries of regenerative, decentralized communities.
 - **For Superachievers:** If you’re driven to excel, build, and regenerate—Avolve DAO is your launchpad. Join a collective of entrepreneurs, builders, and innovators co-creating the Supercivilization. [Join Avolve DAO →](https://github.com/avolve-dao/avolve.io)
 - **For Emerging Leaders:** Step up, collaborate, and shape the future. Avolve is where your ambition meets a positive-sum, regenerative mission.
+
+---
+
+## Technology & Roadmap
+
+- **Neothink DAO:**
+  - Built on established web3 infrastructure (Optimism L2)
+  - Focused on scalable, transparent, and secure member coordination
+  - Progressive rollout to existing communities
+
+- **Avolve DAO:**
+  - Built as a testbed for emerging protocols (Psibase, etc.)
+  - Focused on innovation, regeneration, and next-gen DAO/coop models
+  - Open call for founding contributors and regen-minded builders
 
 ---
 
