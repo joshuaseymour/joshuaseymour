@@ -20,6 +20,22 @@ I thrive in global, collaborative environments—online and offline—and am alw
 
 ---
 
+## Table of Contents
+
+- [Avolve: The Supercivilization Journey](#avolve-the-supercivilization-journey)
+- [What You’ll Experience & Why It Matters](#what-youll-experience--why-it-matters)
+- [Technology & Roadmap](#technology--roadmap)
+- [Why Join?](#why-join)
+- [At a Glance: The Ecosystem](#at-a-glance-the-ecosystem)
+- [Your Journey](#your-journey)
+- [Our Story & Why Now?](#our-story--why-now)
+- [Start Here](#start-here)
+- [Why Support Me & These Projects?](#why-support-me--these-projects)
+- [Frequently Asked Questions & Common Objections](#frequently-asked-questions--common-objections)
+- [Contact](#contact)
+
+---
+
 ## Avolve: The Supercivilization Journey
 
 Avolve is designed to help individuals, collectives, and the entire ecosystem transform from Degen (zero-sum) to Regen (positive-sum), unlocking greater health, wealth, and peace for all. The journey is structured as:
@@ -37,39 +53,12 @@ Avolve is designed to help individuals, collectives, and the entire ecosystem tr
 
 ![Avolve Supercivilization Diagram](./avolve-diagram.svg)
 
-<sub>Diagram: For a rendered/interactive version, see the Mermaid source in the repository or use a Mermaid-enabled Markdown viewer.</sub>
-
 **Legend:**  
 - *GEN*: Genius ID, GEN coin/token, Genie AI  
 - *SAP*: Superachiever Playbook, Personal/Business Success  
 - *SCQ*: Supercivilization Quests, collective transformation  
 - *PSP/BSP/SMS*: Three Keys for individual growth  
 - *SPD/SHE/SSA/SGB*: Four Cores for collective and ecosystem advancement
-
----
-
-## Quick Start:**
-- [Become an Ascender, Neothinker, or Immortal →](https://github.com/neothink-dao/neothink.io)
-- [Join the Superachievers →](https://github.com/avolve-dao/avolve.io)
-
----
-
-```mermaid
-graph TD
-  subgraph Neothink DAO
-    Ascender["Ascender<br/>(Prosperity)"]
-    Neothinker["Neothinker<br/>(Happiness)"]
-    Immortal["Immortal<br/>(Longevity)"]
-    Hub["Neothink+ Hub"]
-    Hub --> Ascender
-    Hub --> Neothinker
-    Hub --> Immortal
-  end
-  subgraph Avolve DAO
-    Superachiever["Superachiever<br/>(Regenerative Leadership)"]
-  end
-  Superachiever -.-> Hub
-```
 
 ---
 
@@ -128,17 +117,6 @@ graph TD
 3. Join the DAO(s) and unlock your personal and collective transformation.
 4. Earn tokens, XP, and rewards as you progress.
 5. Co-create a network state—digital, physical, and regenerative.
-
----
-
-## Roadmap: The Path to a Network State
-
-- **Startup Society:** Launch and grow values-driven digital communities (Neothink DAO, Avolve DAO)
-- **Network Union:** Unite members for collective action, shared governance, and positive-sum collaboration
-- **Network Archipelago:** Expand into crowdfunded physical presence, events, and projects
-- **Network State:** Achieve on-chain governance, real-world legitimacy, and diplomatic recognition as a sovereign, regenerative society
-
-*Each milestone builds on the previous—your participation helps us move from vision to reality.*
 
 ---
 
