@@ -160,7 +160,7 @@ Each archetype and platform is a building block for a new kind of society—weal
 ## 🤝 Get Involved
 
 - [Learn more about Neothink DAO](https://github.com/neothink-dao/neothink.io)
-- [Discover Avolve DAO](https://github.com/avolve-dao/avolve)
+- [Discover Avolve DAO](https://github.com/avolve-dao/avolve.io)
 - [Connect with Joshua Seymour](https://www.joshuaseymour.com)
 
 ---
