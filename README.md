@@ -1,16 +1,62 @@
 # Joshua Seymour — Architecting Positive-Sum Network States
 
+> **Join the journey: [Neothink DAO](https://github.com/neothink-dao/neothink.io) for intrapreneurship and [Avolve DAO](https://github.com/avolve-dao/avolve.io) for entrepreneurship.**
+
+> **Become a User or Admin in a new kind of society. Subscribe, participate, contribute—or build, fund, and help shape the future.**
+
 Welcome! I’m Joshua Seymour.
 
-I build and steward four parallel startup societies—each designed to evolve into a full-fledged network state. My work is about architecting digital-physical communities that unlock human flourishing, using the latest in AI, web3, and decentralized protocols (including Optimism and Psibase).
+I architect and steward digital-physical communities designed to unlock human flourishing—through positive-sum, regenerative, and network state principles. My focus is on building and evolving [Neothink DAO](https://github.com/neothink-dao/neothink.io) (intrapreneurship) and [Avolve DAO](https://github.com/avolve-dao/avolve.io) (entrepreneurship), each with a clear mission, founder, and path to progressive decentralization.
 
 I thrive in global, collaborative environments—online and offline—and am always open to connecting, co-creating, and relocating for the right opportunities and teams.
 
-- **Technical curiosity:** I experiment with new models for coordination, learning, and value creation.
-- **Philosophy:** I believe in global meritocracy, open web values, and the power of decentralized, internet-native communities.
-- **Vision:** I am passionate about the “startup society” and network state journey, especially as it relates to solarpunk, regenerative futures.
+- **Technical curiosity:** Experimenting with new models for coordination, learning, and value creation.
+- **Philosophy:** Global meritocracy, open web values, and the power of decentralized, internet-native communities.
+- **Vision:** Passionate about the “startup society” and network state journey, especially as it relates to solarpunk, regenerative futures.
 
 Neothink DAO and Avolve DAO have already attracted early users and contributors. I’m always interested in new collaborators, partners, and aligned communities.
+
+---
+
+## Why Join?
+
+- **User:** Become a Subscriber, Participant, or Contributor—enjoy access, community, and rewards in our apps and DAOs.
+- **Admin:** Become a Venture Builder (building), Venture Partner (funding), or Venture Associate (helping)—shape new societies as a leader, backer, or supporter.
+
+---
+
+## At a Glance: The Ecosystem
+
+| Project         | Focus                | For Whom?                      | Unique Value                              |
+|-----------------|---------------------|--------------------------------|-------------------------------------------|
+| [Neothink DAO](https://github.com/neothink-dao/neothink.io)    | Prosperity, Happiness, Longevity | Intrapreneurs, Visionaries    | Progressive journeys, unified rewards     |
+| [Avolve DAO](https://github.com/avolve-dao/avolve.io)      | Regen Supercivilization         | Entrepreneurs, Builders, Teams | Degen→Regen journey, collective quests    |
+
+---
+
+## Your Journey
+
+1. Choose your path: Ascender, Neothinker, Immortal, or Superachiever.
+2. Become a User (Subscriber, Participant, Contributor) or Admin (Venture Builder, Partner, Associate).
+3. Join the DAO(s) and unlock your personal and collective transformation.
+4. Earn tokens, XP, and rewards as you progress.
+5. Co-create a network state—digital, physical, and regenerative.
+
+---
+
+## Our Story & Why Now?
+
+We’re at a tipping point: the world needs new models for prosperity, happiness, and longevity. By combining the best of digital and physical communities, we’re building network states that empower individuals and collectives to create lasting, positive-sum change. If you’re ready to help shape the future, you’re in the right place.
+
+---
+
+## Start Here
+
+- [Neothink DAO (Intrapreneurship)](https://github.com/neothink-dao/neothink.io) — Build, scale, and innovate within an established vision.
+- [Avolve DAO (Entrepreneurship)](https://github.com/avolve-dao/avolve.io) — Found, lead, and evolve a new regenerative ecosystem.
+- [Connect with Joshua Seymour](https://www.joshuaseymour.com)
+- **[Join our Community/Discord](#)** _(coming soon)_
+- **Attend a Weekly Call:** Check each project’s repo for event details
 
 ---
 
@@ -43,9 +89,16 @@ Each society is intentionally structured to:
 
 ## 🚀 Neothink DAO (Intrapreneurship)
 
-A monorepo of four synergistic Next.js apps—each with its own token and unique journey, all sharing a unified Supabase backend.
+Neothink DAO unifies three archetypes—Ascender, Neothinker, and Immortal—each with a distinct journey and platform:
 
-**Blockchain:** Neothink DAO intends to use [Optimism](https://optimism.io/) for its 4 sites/apps/tokens/DAOs/projects.
+- **Ascender:** Access Ascension + FLOW + Ascenders. Build a profitable business, join a supportive community, and master the art of value creation. 
+- **Neothinker:** Access Neothink + Mark Hamilton + Neothinkers. Unlock genius-level thinking, join the Neothink Fellowship, and master the knowledge economy.
+- **Immortal:** Access Immortalis + Project Life + Immortals. Pursue longevity, health, and the ultimate goal of making death optional.
+
+**Neothink+ Hub** helps you Prosper Happily Forever—synergizing your journey across all archetypes.
+
+**Vision:**  
+Prosper Happily Forever by becoming wealthier, healthier, and happier—through progressive journeys, weekly events, and a unified digital-physical experience.
 
 | App           | Token | Theme        | Outcome                        |
 |---------------|-------|--------------|--------------------------------|
@@ -66,27 +119,34 @@ Each app is a progressive journey—beginner to advanced—where every action ea
 
 ## 🌌 Avolve DAO (Entrepreneurship)
 
-Avolve DAO is a standalone but interoperable platform focused on building the Supercivilization—a positive-sum, regenerative future.
+Avolve DAO is a platform for positive-sum transformation—helping individuals, collectives, and the ecosystem evolve from “Degen” (zero-sum, extractive) to “Regen” (positive-sum, regenerative).
 
-**Blockchain:** Avolve DAO intends to use [Psibase](https://docs.psibase.io/) for its DAO and ecosystem.
+**Three Core Values:**
+- **Superachiever:** The individual journey of transformation (SAP token)
+- **Superachievers:** The collective journey of co-creation (SCQ token)
+- **Supercivilization:** The ecosystem journey for regenerative progress (GEN token)
+
+**Storyline:**  
+Most people are “Degens,” stuck in a zero-sum, follow-the-leader mentality that enables the Anticivilization. Avolve DAO empowers “Regens”—self-leaders, value creators, and integrated thinkers—to build a Supercivilization through personal and collective transformation.
+
+**Game Loop:**  
+- Create your Personal & Business Success Puzzle (SAP, PSP, BSP)
+- Unlock Supermind Superpowers (SMS)
+- Co-create the Superpuzzle (SPD, SHE, SSA, SGB)
+- Accelerate the transition from Degen to Regen—for yourself and for the world
 
 | Layer/Focus           | Token | Purpose/Outcome                                      |
 |-----------------------|-------|-----------------------------------------------------|
-| Supercivilization     | GEN   | The main token powering the ecosystem                |
-| Individual View       | SAP   | Superachiever: Personal transformation              |
-| Collective View       | SCQ   | Superachievers: Collective co-creation              |
-| Personal Success      | PSP   | Personal Success Puzzle                             |
-| Business Success      | BSP   | Business Success Puzzle                             |
-| Supermind Superpowers | SMS   | Unlock advanced problem-solving & action            |
-| Superpuzzle Devs      | SPD   | Drive grand collective progress                     |
-| Superhuman Enhance.   | SHE   | Support superhuman growth for all ages              |
-| Supersociety Adv.     | SSA   | Advance companies, communities, and countries       |
-| Supergenius Breakth.  | SGB   | Fuel innovation and ecosystem breakthroughs         |
-
-- **One Focus:** Supercivilization (GEN)  
-- **Two Views:** Individual Superachiever (SAP) & Collective Superachievers (SCQ)  
-- **Three Keys:** Personal Success Puzzle (PSP), Business Success Puzzle (BSP), Supermind Superpowers (SMS)  
-- **Four Cores:** Superpuzzle Developments (SPD), Superhuman Enhancements (SHE), Supersociety Advancements (SSA), Supergenius Breakthroughs (SGB)
+| Supercivilization     | GEN   | Ecosystem transformation (Avolve from Degen to Regen)|
+| Superachiever         | SAP   | Personal transformation (Success Puzzle)            |
+| Superachievers        | SCQ   | Collective transformation (Superpuzzle)             |
+| Personal Success      | PSP   | Health, Wealth, Peace                               |
+| Business Success      | BSP   | Network, Admin, Profit                              |
+| Supermind Superpowers | SMS   | Solve, Plan, Act                                    |
+| Superpuzzle Devs      | SPD   | Grand collective progress                           |
+| Superhuman Enhance.   | SHE   | Superhuman growth for all ages                      |
+| Supersociety Adv.     | SSA   | Advance companies, communities, countries           |
+| Supergenius Breakth.  | SGB   | Innovation and breakthroughs                        |
 
 ---
 
@@ -157,11 +217,34 @@ Each archetype and platform is a building block for a new kind of society—weal
 
 ---
 
-## 🤝 Get Involved
+## Frequently Asked Questions & Common Objections
 
-- [Learn more about Neothink DAO](https://github.com/neothink-dao/neothink.io)
-- [Discover Avolve DAO](https://github.com/avolve-dao/avolve.io)
-- [Connect with Joshua Seymour](https://www.joshuaseymour.com)
+**What is a “network state” and why should I care?**  
+A network state is a digitally native community with a shared vision, real-world impact, and a path to self-governance. By joining early, you help shape the rules, culture, and benefits of a new society—while earning rewards and building meaningful relationships.
+
+**Is this just another crypto project or online community?**  
+No. While we use web3 and blockchain for transparency and coordination, our focus is on real transformation: personal, collective, and ecosystem-wide. Our DAOs are built around positive-sum values, not speculation.
+
+**Do I need to be a developer or blockchain expert to join?**  
+Not at all! Anyone can join as a Subscriber, Participant, or Contributor. We welcome learners, builders, creators, and supporters from all backgrounds.
+
+**How do I actually get started?**  
+Pick a path (Neothink DAO or Avolve DAO), join as a User or Admin, and follow the onboarding steps. Most communities have weekly calls, onboarding quests, and open channels for support.
+
+**What if I just want to observe or learn before committing?**  
+That’s fine! You can join our public calls, read our resources, or connect with members before diving deeper.
+
+**What’s the business model? How are projects funded?**  
+We use a mix of subscriptions, token rewards, and venture partnerships. Admins (builders, partners, associates) help shape and fund new projects, while Users enjoy access and community benefits.
+
+**How do you avoid the pitfalls of other DAOs or online movements?**  
+We focus on real-world value, progressive decentralization, and a clear governance roadmap. Our founders are public, our vision is long-term, and we prioritize collaboration over hype.
+
+**How can I trust this isn’t a scam or rug pull?**  
+Transparency is key: our founders are public, our code and governance are open, and our incentives are aligned for long-term growth and positive impact.
+
+**What if I have more questions?**  
+Reach out directly, join a call, or connect with us on social channels. We’re here to help!
 
 ---
 
