@@ -68,3 +68,20 @@ graph TD
   LUCK --> LIVE
   LUCK --> LOVE
   LUCK --> LIFE
+
+graph TD
+  GEN("GEN<br/>(Supercivilization)")
+  SAP("SAP<br/>(Individual Superachiever)")
+  SCQ("SCQ<br/>(Collective Superachievers)")
+
+  GEN --> SAP
+  GEN --> SCQ
+
+  SAP --> PSP("PSP<br/>(Personal Success Puzzle)")
+  SAP --> BSP("BSP<br/>(Business Success Puzzle)")
+  SAP --> SMS("SMS<br/>(Supermind Superpowers)")
+
+  SCQ --> SPD("SPD<br/>(Superpuzzle Developments)")
+  SCQ --> SHE("SHE<br/>(Superhuman Enhancements)")
+  SCQ --> SSA("SSA<br/>(Supersociety Advancements)")
+  SCQ --> SGB("SGB<br/>(Supergenius Breakthroughs)")
