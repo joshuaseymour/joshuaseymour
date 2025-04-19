@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680" height="420" viewBox="0 0 680 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="420" fill="white"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle">
+    <!-- One Focus -->
+    <rect x="270" y="20" width="140" height="40" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+    <text x="340" y="45" font-weight="bold">GEN</text>
+    <text x="340" y="65" font-size="13">Supercivilization</text>
+    <text x="340" y="80" font-size="11">(One Focus)</text>
+    <!-- Two Views -->
+    <rect x="80" y="110" width="200" height="40" rx="10" fill="#fef9c3" stroke="#ca8a04" stroke-width="2"/>
+    <text x="180" y="135" font-weight="bold">SAP</text>
+    <text x="180" y="155" font-size="13">Superachiever (Individual)</text>
+    <rect x="400" y="110" width="200" height="40" rx="10" fill="#fef9c3" stroke="#ca8a04" stroke-width="2"/>
+    <text x="500" y="135" font-weight="bold">SCQ</text>
+    <text x="500" y="155" font-size="13">Superachievers (Collective)</text>
+    <!-- Three Keys -->
+    <rect x="20" y="200" width="120" height="40" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+    <text x="80" y="225" font-weight="bold">PSP</text>
+    <text x="80" y="245" font-size="12">Personal Success Puzzle</text>
+    <rect x="150" y="200" width="120" height="40" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+    <text x="210" y="225" font-weight="bold">BSP</text>
+    <text x="210" y="245" font-size="12">Business Success Puzzle</text>
+    <rect x="280" y="200" width="120" height="40" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+    <text x="340" y="225" font-weight="bold">SMS</text>
+    <text x="340" y="245" font-size="12">Supermind Superpowers</text>
+    <!-- Four Cores -->
+    <rect x="410" y="200" width="120" height="40" rx="10" fill="#f0fdfa" stroke="#0891b2" stroke-width="2"/>
+    <text x="470" y="225" font-weight="bold">SPD</text>
+    <text x="470" y="245" font-size="12">Superpuzzle Developments</text>
+    <rect x="540" y="200" width="120" height="40" rx="10" fill="#f0fdfa" stroke="#0891b2" stroke-width="2"/>
+    <text x="600" y="225" font-weight="bold">SHE</text>
+    <text x="600" y="245" font-size="12">Superhuman Enhancements</text>
+    <rect x="410" y="270" width="120" height="40" rx="10" fill="#f0fdfa" stroke="#0891b2" stroke-width="2"/>
+    <text x="470" y="295" font-weight="bold">SSA</text>
+    <text x="470" y="315" font-size="12">Supersociety Advancements</text>
+    <rect x="540" y="270" width="120" height="40" rx="10" fill="#f0fdfa" stroke="#0891b2" stroke-width="2"/>
+    <text x="600" y="295" font-weight="bold">SGB</text>
+    <text x="600" y="315" font-size="12">Supergenius Breakthroughs</text>
+    <!-- Connecting Lines -->
+    <line x1="340" y1="60" x2="180" y2="110" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="340" y1="60" x2="500" y2="110" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="180" y1="150" x2="80" y2="200" stroke="#ca8a04" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="180" y1="150" x2="210" y2="200" stroke="#ca8a04" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="180" y1="150" x2="340" y2="200" stroke="#ca8a04" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="500" y1="150" x2="470" y2="200" stroke="#ca8a04" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="500" y1="150" x2="600" y2="200" stroke="#ca8a04" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="500" y1="150" x2="470" y2="270" stroke="#ca8a04" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="500" y1="150" x2="600" y2="270" stroke="#ca8a04" stroke-width="2" marker-end="url(#arrow)"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 L3,5 z" fill="#2563eb" />
+    </marker>
+  </defs>
+</svg>

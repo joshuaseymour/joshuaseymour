@@ -29,21 +29,15 @@ Avolve is designed to help individuals, collectives, and the entire ecosystem tr
 - **Three Keys:** Personal Success Puzzle, Business Success Puzzle, Supermind Superpowers
 - **Four Cores:** Superpuzzle Developments, Superhuman Enhancements, Supersociety Advancements, Supergenius Breakthroughs
 
-```mermaid
-flowchart TD
-  GEN[GEN<br/>Supercivilization<br/>(One Focus)]
-  GEN --> SAP[SAP<br/>Superachiever<br/>(Two Views: Individual)]
-  GEN --> SCQ[SCQ<br/>Superachievers<br/>(Two Views: Collective)]
+**Quick Start:**
+- [Become an Ascender, Neothinker, or Immortal →](https://github.com/neothink-dao/neothink.io)
+- [Join the Superachievers →](https://github.com/avolve-dao/avolve.io)
 
-  SAP --> PSP[PSP<br/>Personal Success Puzzle<br/>(Key 1)]
-  SAP --> BSP[BSP<br/>Business Success Puzzle<br/>(Key 2)]
-  SAP --> SMS[SMS<br/>Supermind Superpowers<br/>(Key 3)]
+---
 
-  SCQ --> SPD[SPD<br/>Superpuzzle Developments<br/>(Core 1)]
-  SCQ --> SHE[SHE<br/>Superhuman Enhancements<br/>(Core 2)]
-  SCQ --> SSA[SSA<br/>Supersociety Advancements<br/>(Core 3)]
-  SCQ --> SGB[SGB<br/>Supergenius Breakthroughs<br/>(Core 4)]
-```
+![Avolve Supercivilization Diagram](./avolve-diagram.svg)
+
+<sub>Diagram: For a rendered/interactive version, see the Mermaid source in the repository or use a Mermaid-enabled Markdown viewer.</sub>
 
 **Legend:**  
 - *GEN*: Genius ID, GEN coin/token, Genie AI  
