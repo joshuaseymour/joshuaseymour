@@ -40,14 +40,12 @@ I thrive in global, collaborative environments—online and offline—and am alw
 
 Neothink DAO unites Ascenders, Neothinkers, and Immortals in a synergistic ecosystem designed for prosperity, happiness, and longevity.
 
-> **Note:** Mermaid diagrams do not render on GitHub. To view rendered diagrams, use a Mermaid-enabled Markdown viewer or compatible tool.
-
 ```mermaid
 graph TD
   NeothinkDAO[Neothink DAO]
-  Ascender[Ascender (Prosperity)]
-  Neothinker[Neothinker (Happiness)]
-  Immortal[Immortal (Longevity)]
+  Ascender[Ascender<br>Prosperity]
+  Neothinker[Neothinker<br>Happiness]
+  Immortal[Immortal<br>Longevity]
   Hub[Neothink+ Hub]
   NeothinkDAO --> Ascender
   NeothinkDAO --> Neothinker
@@ -74,20 +72,18 @@ Avolve is designed to help individuals, collectives, and the entire ecosystem tr
 
 ---
 
-> **Note:** Mermaid diagrams do not render on GitHub. To view rendered diagrams, use a Mermaid-enabled Markdown viewer or compatible tool.
-
 ```mermaid
 flowchart TD
-  GEN[GEN\nSupercivilization (One Focus)]
-  GEN --> SAP[SAP\nSuperachiever (Two Views: Individual)]
-  GEN --> SCQ[SCQ\nSuperachievers (Two Views: Collective)]
-  SAP --> PSP[PSP\nPersonal Success Puzzle (Key 1)]
-  SAP --> BSP[BSP\nBusiness Success Puzzle (Key 2)]
-  SAP --> SMS[SMS\nSupermind Superpowers (Key 3)]
-  SCQ --> SPD[SPD\nSuperpuzzle Developments (Core 1)]
-  SCQ --> SHE[SHE\nSuperhuman Enhancements (Core 2)]
-  SCQ --> SSA[SSA\nSupersociety Advancements (Core 3)]
-  SCQ --> SGB[SGB\nSupergenius Breakthroughs (Core 4)]
+  GEN[GEN<br>Supercivilization<br>One Focus]
+  GEN --> SAP[SAP<br>Superachiever<br>Individual]
+  GEN --> SCQ[SCQ<br>Superachievers<br>Collective]
+  SAP --> PSP[PSP<br>Personal Success Puzzle]
+  SAP --> BSP[BSP<br>Business Success Puzzle]
+  SAP --> SMS[SMS<br>Supermind Superpowers]
+  SCQ --> SPD[SPD<br>Superpuzzle Developments]
+  SCQ --> SHE[SHE<br>Superhuman Enhancements]
+  SCQ --> SSA[SSA<br>Supersociety Advancements]
+  SCQ --> SGB[SGB<br>Supergenius Breakthroughs]
 ```
 
 **Legend:**  
