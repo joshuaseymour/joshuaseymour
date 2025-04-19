@@ -1,13 +1,51 @@
 # Joshua Seymour — Architecting Positive-Sum Network States
 
-Welcome! I’m Joshua Seymour.  
-I build transformative digital communities and positive-sum ecosystems—functioning as an **intrapreneur** via Neothink DAO and as an **entrepreneur** via Avolve DAO.
+Welcome! I’m Joshua Seymour.
+
+I build and steward four parallel startup societies—each designed to evolve into a full-fledged network state. My work is about architecting digital-physical communities that unlock human flourishing, using the latest in AI, web3, and decentralized protocols (including Optimism and Psibase).
+
+I thrive in global, collaborative environments—online and offline—and am always open to connecting, co-creating, and relocating for the right opportunities and teams.
+
+- **Technical curiosity:** I experiment with new models for coordination, learning, and value creation.
+- **Philosophy:** I believe in global meritocracy, open web values, and the power of decentralized, internet-native communities.
+- **Vision:** I am passionate about the “startup society” and network state journey, especially as it relates to solarpunk, regenerative futures.
+
+Neothink DAO and Avolve DAO have already attracted early users and contributors. I’m always interested in new collaborators, partners, and aligned communities.
+
+---
+
+## Governance & Network State Vision
+
+Both Neothink DAO and Avolve DAO are parallel startup societies, intentionally structured to mature into true network states—each with a clear founder, a strong sense of mission, and a path toward progressive decentralization and self-governance.
+
+> “A network state is a social network with a moral innovation, a sense of national consciousness, a recognized founder, a capacity for collective action, an in-person level of civility, an integrated cryptocurrency, a consensual government limited by a social smart contract, an archipelago of crowdfunded physical territories, a virtual capital, and an on-chain census that proves a large enough population, income, and real estate footprint to attain a measure of diplomatic recognition.”
+
+**Founders & Governance Structure:**
+- **Neothink DAO:**  
+  - The recognized founder of Ascenders, Neothinkers, and Immortals (and their related values) is Mark Hamilton, his family, and their core supporters.
+  - The Neothink+ monorepo is owned and controlled by Neothink DAO, with Mark Hamilton (along with his family and team) as the benevolent dictator and philosopher king, stewarding the project until these parallel societies mature to fully govern themselves.
+
+- **Avolve DAO:**  
+  - The recognized founder of Avolve and its super-projects is Joshua Seymour.
+  - The Avolve repo is owned and controlled by Avolve DAO, with Joshua Seymour (along with his family and team) as the benevolent dictator and philosopher king, guiding the project until it matures into full self-governance.
+
+**Stewardship Philosophy:**  
+Both DAOs are committed to progressive decentralization. The “benevolent dictator” model is a temporary measure to ensure strong leadership, clear vision, and principled growth—until the communities are ready for fully decentralized, self-sustaining governance.
+
+**Network State Trajectory:**  
+Each society is intentionally structured to:
+- Start as a focused, values-driven startup society
+- Grow into a network union (digital community with collective action)
+- Expand into a network archipelago (crowdfunded physical presence)
+- Ultimately achieve the scale, legitimacy, and diplomatic recognition of a true network state
 
 ---
 
 ## 🚀 Neothink DAO (Intrapreneurship)
 
 A monorepo of four synergistic Next.js apps—each with its own token and unique journey, all sharing a unified Supabase backend.
+
+**Blockchain:** Neothink DAO intends to use [Optimism](https://optimism.io/) for its 4 sites/apps/tokens/DAOs/projects.
 
 | App           | Token | Theme        | Outcome                        |
 |---------------|-------|--------------|--------------------------------|
@@ -29,6 +67,8 @@ Each app is a progressive journey—beginner to advanced—where every action ea
 ## 🌌 Avolve DAO (Entrepreneurship)
 
 Avolve DAO is a standalone but interoperable platform focused on building the Supercivilization—a positive-sum, regenerative future.
+
+**Blockchain:** Avolve DAO intends to use [Psibase](https://docs.psibase.io/) for its DAO and ecosystem.
 
 | Layer/Focus           | Token | Purpose/Outcome                                      |
 |-----------------------|-------|-----------------------------------------------------|
@@ -64,6 +104,9 @@ graph TD
   LUCK --> LIVE
   LUCK --> LOVE
   LUCK --> LIFE
+```
+
+### Avolve DAO: GEN Unfolds the Supercivilization
 
 ```mermaid
 graph TD
@@ -82,13 +125,8 @@ graph TD
   SCQ --> SHE["SHE<br/>(Superhuman Enhancements)"]
   SCQ --> SSA["SSA<br/>(Supersociety Advancements)"]
   SCQ --> SGB["SGB<br/>(Supergenius Breakthroughs)"]
+```
 
-
----
-
-### Chunk 5: Vision, Roles, Roadmap, and Contact
-
-```markdown
 ---
 
 ## 🌐 Network State Vision
