@@ -6,77 +6,54 @@ Welcome! I’m Joshua Seymour, a builder of networked communities, transformativ
 
 ## 🌐 Ecosystem Overview
 
-### Neothink DAO Monorepo
+### Neothink+ Hub (`go.neothink.io`)
 
-A unified platform serving three archetypes—**Ascenders (LIVE)**, **Neothinkers (LOVE)**, and **Immortals (LIFE)**—all connected through the **Neothink+ Hub (LUCK)**. Users can choose any, any combination, or all three roles based on their interests. Those who participate in all three are recognized as **Superachievers**, unlocking exclusive bonuses and access to Avolve.
+The Neothink+ Hub is open to all who wish to:
+- Grow as an **Ascender** (LIVE: prosperity & value creation)
+- Expand as a **Neothinker** (LOVE: happiness & integrated thinking)
+- Thrive as an **Immortal** (LIFE: longevity & self-leadership)
 
-- **Ascender:** Focus on prosperity, value creation, and business growth.
-- **Neothinker:** Focus on happiness, integrated thinking, and knowledge mastery.
-- **Immortal:** Focus on longevity, self-leadership, and healthspan extension.
-- **Superachiever:** The bridge—those who embody all three, ready for the next level.
-
-**Main Sites/Apps:**
-- [joinascenders.org](https://www.joinascenders.org)
-- [joinneothinkers.org](https://www.joinneothinkers.org)
-- [joinimmortals.org](https://www.joinimmortals.org)
-- [Neothink+ Hub](https://www.neothink.io)
-
-Each app is a Next.js project, all sharing a single Supabase database and unified authentication, gamification, and analytics.
+You can choose any one, any combination, or all three—based on your own interests and goals.  
+**You do not need to be a Superachiever to enjoy the Neothink+ Hub.**  
+If you choose to embody all three, you are recognized as a **Superachiever**, which unlocks special status and access to Avolve.
 
 ---
 
 ### Avolve DAO
 
-Avolve is the advanced playground for Superachievers—those who want to co-create the future, whether they come from Neothink+ or join directly. It is built around three core values:
+**Avolve** is both a bridge and a stand-alone platform for Superachievers—those who are ready to create their personal “success puzzle” and co-create our collective “superpuzzle.”  
+- If you’re a Superachiever in Neothink+ (all three roles), you can access Avolve as a bonus.
+- But Avolve also welcomes all true, real, and pure Superachievers—regardless of their journey through Neothink+.
 
-- **Superachiever:** Individual journey of transformation (SAP token)
-- **Superachievers:** Collective journey of transformation (SCQ token)
-- **Supercivilization:** Ecosystem journey of transformation (GEN token)
+#### The Avolve Mission
 
-#### The Supercivilization Storyline
+Avolve exists to help individuals, collectives, and the entire ecosystem “Avolve” from surviving/striving as Degens (degenerative, zero-sum, value-destroying) to thriving as Regens (regenerative, positive-sum, value-creating and value-producing).
 
-Civilization is shaped by mentality.  
-- Most are “Degens” (followers), sustaining the Anticivilization—a zero-sum game run by value destroyers.
-- Some are “Regens” (self-leaders, value creators), building the Supercivilization—a positive-sum game for all.
-
-**Avolve’s mission:** Help users evolve from Degen to Regen, accelerating both personal lifestyle and collective standard of living.
-
-- **One Focus:** Supercivilization (GEN)
-- **Two Views:** Superachiever (SAP) & Superachievers (SCQ)
-- **Three Keys:** Personal Success Puzzle (PSP), Business Success Puzzle (BSP), Supermind Superpowers (SMS)
-- **Four Cores:** Superpuzzle Developments (SPD), Superhuman Enhancements (SHE), Supersociety Advancements (SSA), Supergenius Breakthroughs (SBG)
+- **Superachiever:** Personal transformation (SAP token)
+- **Superachievers:** Collective transformation (SCQ token)
+- **Supercivilization:** Ecosystem transformation (GEN token)
 
 ---
 
 ## 🏆 Gamification & Tokenomics
 
-Our ecosystem is designed as a flawless, positive-sum game. Every action, contribution, and collaboration is rewarded through a transparent, metrics-driven tokenomics system:
-
-- **GEN:** The core ecosystem token, representing Supercivilization.
-- **SAP:** Superachiever token for personal transformation.
-- **SCQ:** Superachievers token for collective transformation.
-- **Other tokens:** PSP, BSP, SMS, SPD, SHE, SSA, SBG—each representing a key area of growth.
-
-**Tokenomics Principles:**
-- Daily/weekly token claims and quests.
-- Incentives for engagement, learning, and contribution.
-- Feature unlocking based on participation and impact.
-- Governance and marketplace access for active contributors.
-
-**All tokens and rewards are tracked across all apps, creating a unified experience and leaderboard.**
+- **Positive-sum, transparent, and metrics-driven.**
+- Every action, contribution, and collaboration is rewarded through tokens (GEN, SAP, SCQ, and more).
+- Daily/weekly quests, feature unlocks, and governance for active participants.
 
 ---
 
-## 🚀 How to Join & Play
+## 🚀 Who Can Participate?
 
-1. **Choose your journey:** Ascender, Neothinker, Immortal—or all three!
-2. **Engage with your chosen app(s):**
-   - Ascender: [joinascenders.org/ascender](https://www.joinascenders.org/ascender)
-   - Neothinker: [joinneothinkers.org/neothinker](https://www.joinneothinkers.org/neothinker)
-   - Immortal: [joinimmortals.org/immortal](https://www.joinimmortals.org/immortal)
-3. **Progress, earn tokens, and unlock new features.**
-4. **Become a Superachiever** by participating in all three—unlocking Avolve and exclusive bonuses.
-5. **Join Avolve** to co-create the Supercivilization and shape the future.
+**Users:**  
+- Subscribers, participants, and contributors—anyone seeking personal or collective growth.
+
+**Admins:**  
+- Venture Builders (building the ecosystem)
+- Venture Partners (funding and supporting)
+- Venture Associates (helping and facilitating)
+
+Everyone is welcome—whether you’re here to learn, build, fund, or help!
 
 ---
 
@@ -88,27 +65,13 @@ Our ecosystem is designed as a flawless, positive-sum game. Every action, contri
 
 ---
 
-## 💡 The Neothink+ and Avolve Storylines
+## 💡 The Storyline: Degen to Regen
 
-**Neothink+:**
-- One Purpose: Prosper Happily Forever
-- Two Missions: Individual & Collective
-- Three Visions: Prosperity, Happiness, Longevity
-- Four Goals: Ascender, Neothinker, Immortal, Superachiever
+Civilization is shaped by mentality.  
+- Most are “Degens” (followers), sustaining the Anticivilization—a zero-sum game run by value destroyers.
+- Some are “Regens” (self-leaders, value creators), building the Supercivilization—a positive-sum game for all.
 
-**Avolve:**
-- One Focus: GEN (Supercivilization)
-- Two Views: SAP (Superachiever), SCQ (Superachievers)
-- Three Keys: PSP, BSP, SMS
-- Four Cores: SPD, SHE, SSA, SBG
-
----
-
-## 🛠️ Tech & Architecture
-
-- 4 Next.js apps (Vercel projects), sharing a single Supabase PostgreSQL database.
-- Modular monorepo with shared UI, authentication, and analytics.
-- Built for extensibility, transparency, and open collaboration.
+**Avolve’s mission:** Help users evolve from Degen to Regen, accelerating both personal lifestyle and collective standard of living.
 
 ---
 
