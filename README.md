@@ -1,4 +1,4 @@
-# Joshua Seymour — Building Positive-Sum Worlds
+# Joshua Seymour — Building Positive-Sum Network States
 
 Welcome! I’m Joshua Seymour, a builder of networked communities, transformative platforms, and positive-sum ecosystems. My work spans both intrapreneurship (Neothink DAO) and entrepreneurship (Avolve DAO), unified by a mission: to empower individuals and collectives to prosper, grow, and co-create a better future.
 
@@ -8,26 +8,31 @@ Welcome! I’m Joshua Seymour, a builder of networked communities, transformativ
 
 ### Neothink+ Hub (`go.neothink.io`)
 
-The Neothink+ Hub is open to all who wish to:
-- Grow as an **Ascender** (LIVE: prosperity & value creation)
-- Expand as a **Neothinker** (LOVE: happiness & integrated thinking)
-- Thrive as an **Immortal** (LIFE: longevity & self-leadership)
+The Neothink+ Hub is an open gateway for anyone seeking personal or collective transformation. Choose your own adventure:
 
-You can choose any one, any combination, or all three—based on your own interests and goals.  
-**You do not need to be a Superachiever to enjoy the Neothink+ Hub.**  
-If you choose to embody all three, you are recognized as a **Superachiever**, which unlocks special status and access to Avolve.
+- **Ascenders** — Grow into a network state of the wealthiest humans alive.  
+  *Focus: Prosperity, value creation, business mastery*
+- **Neothinkers** — Grow into a network state of the happiest humans alive.  
+  *Focus: Integrated thinking, knowledge mastery, fulfillment*
+- **Immortals** — Grow into a network state of the healthiest humans alive.  
+  *Focus: Longevity, self-leadership, healthspan extension*
+
+You can engage with any one, any combination, or all three—based on your interests and goals.  
+**You do not need to be a Superachiever to enjoy the Neothink+ Hub.**
+
+If you choose to embody all three, you are recognized as a **Superachiever**—growing into a network state of the luckiest and smartest people alive, and unlocking exclusive access to Avolve.
 
 ---
 
 ### Avolve DAO
 
-**Avolve** is both a bridge and a stand-alone platform for Superachievers—those who are ready to create their personal “success puzzle” and co-create our collective “superpuzzle.”  
+**Avolve** is both a bridge and a stand-alone platform for Superachievers—those ready to create their personal “success puzzle” and co-create our collective “superpuzzle.”  
 - If you’re a Superachiever in Neothink+ (all three roles), you can access Avolve as a bonus.
 - But Avolve also welcomes all true, real, and pure Superachievers—regardless of their journey through Neothink+.
 
 #### The Avolve Mission
 
-Avolve exists to help individuals, collectives, and the entire ecosystem “Avolve” from surviving/striving as Degens (degenerative, zero-sum, value-destroying) to thriving as Regens (regenerative, positive-sum, value-creating and value-producing).
+Avolve exists to help individuals, collectives, and the entire ecosystem “Avolve” from surviving/striving as Degens (degenerative, zero-sum, value-destroying) into thriving as Regens (regenerative, positive-sum, value-creating and value-producing).
 
 - **Superachiever:** Personal transformation (SAP token)
 - **Superachievers:** Collective transformation (SCQ token)
@@ -40,6 +45,7 @@ Avolve exists to help individuals, collectives, and the entire ecosystem “Avol
 - **Positive-sum, transparent, and metrics-driven.**
 - Every action, contribution, and collaboration is rewarded through tokens (GEN, SAP, SCQ, and more).
 - Daily/weekly quests, feature unlocks, and governance for active participants.
+- Unified experience and leaderboard across all apps.
 
 ---
 
@@ -75,12 +81,32 @@ Civilization is shaped by mentality.
 
 ---
 
+## 📈 Network State Vision
+
+Each archetype is designed to become a thriving network state:
+- **Ascenders:** The wealthiest humans, united by value creation and abundance.
+- **Neothinkers:** The happiest humans, united by knowledge, fulfillment, and positive psychology.
+- **Immortals:** The healthiest humans, united by longevity and self-leadership.
+- **Superachievers:** The luckiest and smartest, uniting all three for maximum impact.
+
+This vision is inspired by the principles of network states—decentralized, digitally-native, values-aligned communities that can scale globally and deliver real-world impact.
+
+---
+
 ## 🤝 Community & Contribution
 
 - **Open source:** Contributions, feedback, and collaboration are welcome!
 - **Onboarding:** Clear guides, FAQs, and support for every step.
 - **Weekly Zooms:** Join our regular meetings for luck (Sunday), prosperity (Monday), happiness (Wednesday), and longevity (Friday).
 - **DAO governance:** Transparent, participatory decision-making.
+
+---
+
+## 🛠️ Tech & Architecture
+
+- 4 Next.js apps (Vercel projects), sharing a single Supabase PostgreSQL database.
+- Modular monorepo with shared UI, authentication, and analytics.
+- Built for extensibility, transparency, and open collaboration.
 
 ---
 
