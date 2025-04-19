@@ -56,31 +56,32 @@ Avolve DAO is a standalone but interoperable platform focused on building the Su
 
 ```mermaid
 graph TD
-  LUCK("Neothink+ Hub<br/>LUCK<br/>(Prosper Happily Forever)")
-  LIVE("Ascenders<br/>LIVE<br/>(Prosperity)")
-  LOVE("Neothinkers<br/>LOVE<br/>(Happiness)")
-  LIFE("Immortals<br/>LIFE<br/>(Longevity)")
+  LUCK["Neothink+ Hub<br/>LUCK<br/>(Prosper Happily Forever)"]
+  LIVE["Ascenders<br/>LIVE<br/>(Prosperity)"]
+  LOVE["Neothinkers<br/>LOVE<br/>(Happiness)"]
+  LIFE["Immortals<br/>LIFE<br/>(Longevity)"]
 
   LUCK --> LIVE
   LUCK --> LOVE
   LUCK --> LIFE
 
+```mermaid
 graph TD
-  GEN("GEN<br/>(Supercivilization)")
-  SAP("SAP<br/>(Individual Superachiever)")
-  SCQ("SCQ<br/>(Collective Superachievers)")
+  GEN["GEN<br/>(Supercivilization)"]
+  SAP["SAP<br/>(Individual Superachiever)"]
+  SCQ["SCQ<br/>(Collective Superachievers)"]
 
   GEN --> SAP
   GEN --> SCQ
 
-  SAP --> PSP("PSP<br/>(Personal Success Puzzle)")
-  SAP --> BSP("BSP<br/>(Business Success Puzzle)")
-  SAP --> SMS("SMS<br/>(Supermind Superpowers)")
+  SAP --> PSP["PSP<br/>(Personal Success Puzzle)"]
+  SAP --> BSP["BSP<br/>(Business Success Puzzle)"]
+  SAP --> SMS["SMS<br/>(Supermind Superpowers)"]
 
-  SCQ --> SPD("SPD<br/>(Superpuzzle Developments)")
-  SCQ --> SHE("SHE<br/>(Superhuman Enhancements)")
-  SCQ --> SSA("SSA<br/>(Supersociety Advancements)")
-  SCQ --> SGB("SGB<br/>(Supergenius Breakthroughs)")
+  SCQ --> SPD["SPD<br/>(Superpuzzle Developments)"]
+  SCQ --> SHE["SHE<br/>(Superhuman Enhancements)"]
+  SCQ --> SSA["SSA<br/>(Supersociety Advancements)"]
+  SCQ --> SGB["SGB<br/>(Supergenius Breakthroughs)"]
 
 
 ---
