@@ -145,7 +145,7 @@ flowchart TD
 | Project         | Focus                | For Whom?                      | Unique Value                              |
 |-----------------|---------------------|--------------------------------|-------------------------------------------|
 | [Neothink DAO](https://github.com/neothink-dao/neothink.io)    | Prosperity, Happiness, Longevity | Ascenders, Neothinkers, Immortals    | Progressive journeys, unified rewards     |
-| [Avolve DAO](https://github.com/avolve-dao/avolve.io)      | Regen Supercivilization         | Superachievers, Emerging Leaders | Degen→Regen journey, collective quests    |
+| [Avolve DAO](https://github.com/avolve-dao/avolve.io)      | Regen Supercivilization         | Superachievers | Individual, collective, ecosystem quests    |
 
 ---
 
