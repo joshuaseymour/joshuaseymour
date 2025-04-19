@@ -35,6 +35,7 @@
 - [Our Story & Why Now?](#our-story--why-now)
 - [Start Here](#start-here)
 - [Why Support Me & These Projects?](#why-support-me--these-projects)
+- [Why I Steward These DAOs](#why-i-steward-these-daos)
 - [Frequently Asked Questions & Common Objections](#frequently-asked-questions--common-objections)
 - [Contact](#contact)
 
@@ -170,6 +171,28 @@ flowchart TD
 
 ---
 
+## Why Support Me & These Projects?
+
+- You believe in positive-sum, regenerative societies.
+- You want to accelerate your journey and help others do the same.
+- You value transparency, innovation, and collective impact.
+
+---
+
+## Why I Steward These DAOs
+
+> These DAOs are an expression of the values I need, want, and desire in the world—values I believe are foundational for a thriving, regenerative future. I’m stewarding these communities to:
+>
+> - **Advance Positive-Sum Collaboration:** Empower people to create more value together than they could alone.
+> - **Champion Transparency & Integrity:** Build trust through open, honest, and accountable systems.
+> - **Foster Growth & Purpose:** Enable individuals and collectives to unlock their highest potential.
+> - **Catalyze Regenerative Impact:** Prioritize actions and innovations that heal and uplift society and the planet.
+> - **Celebrate Autonomy & Belonging:** Support both individual sovereignty and deep, meaningful connection.
+>
+> If these values resonate with you, you’ll find a home—and a calling—here.
+
+---
+
 ## Our Story & Why Now?
 
 We’re at a tipping point: the world needs new models for prosperity, happiness, and longevity. By combining the best of digital and physical communities, we’re building network states that empower individuals and collectives to create lasting, positive-sum change. If you’re ready to help shape the future, you’re in the right place.
@@ -181,14 +204,6 @@ We’re at a tipping point: the world needs new models for prosperity, happiness
 - [Neothink DAO Onboarding](https://github.com/neothink-dao/neothink.io#onboarding)
 - [Avolve DAO Onboarding](https://github.com/avolve-dao/avolve.io#onboarding)
 - [Contact Joshua Seymour](https://www.joshuaseymour.com/contact)
-
----
-
-## Why Support Me & These Projects?
-
-- You believe in positive-sum, regenerative societies.
-- You want to accelerate your journey and help others do the same.
-- You value transparency, innovation, and collective impact.
 
 ---
 
