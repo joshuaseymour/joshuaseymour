@@ -4,9 +4,9 @@
 
 > **Avolve DAO: A brand new initiative for regen-minded geniuses, entrepreneurs, and builders. Be a founding member and co-create a regenerative, positive-sum society from day one. Pioneering with emerging web3/blockchain technology, including Psibase, to push the boundaries of decentralized communities.**
 
-> Unlock prosperity, happiness, and longevity—join a movement where your genius shapes the future.
+> **Already on your journey?** These DAOs are designed for those who want to accelerate their growth and impact—whether you’re a seasoned builder, a visionary, or a contributor seeking deeper purpose and greater results. If you’re ready to go further, faster, and help shape a positive-sum future, you’re in the right place.
 
-> **Join the journey: [Neothink DAO](https://github.com/neothink-dao/neothink.io) for Ascenders, Neothinkers, and Immortals; [Avolve DAO](https://github.com/avolve-dao/avolve.io) for Superachievers.**
+> **Connect and collaborate:** Reach out via [GitHub Discussions](https://github.com/joshuaseymour/joshuaseymour/discussions), open an issue, or use the contact form on [joshuaseymour.com](https://www.joshuaseymour.com) to explore how we can create lasting impact together.
 
 **Are you seeking greater prosperity, happiness, or longevity? Ready to build, learn, and thrive with others like you?**
 
@@ -151,9 +151,9 @@ flowchart TD
 
 ## Your Journey
 
-1. Choose your path: Ascender, Neothinker, Immortal, or Superachiever.
+1. Choose your path: Ascender, Neothinker, Immortal, or Superachiever—roles for those already committed to growth and contribution.
 2. Become a User (Subscriber, Participant, Contributor) or Admin (Venture Builder, Partner, Associate).
-3. Join the DAO(s) and unlock your personal and collective transformation.
+3. Join the DAO(s) and unlock your next level of personal and collective transformation.
 4. Earn tokens, XP, and rewards as you progress.
 5. Co-create a network state—digital, physical, and regenerative.
 
