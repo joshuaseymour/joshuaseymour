@@ -8,7 +8,7 @@
 
 > **Ready to Accelerate Your Journey?** These DAOs are designed for those who want to go further, faster, and help shape a positive-sum future. If you’re a seasoned builder, visionary, or contributor seeking deeper purpose and greater results, you’re in the right place.
 
-> **Connect and Collaborate:** Reach out via [GitHub Discussions](https://github.com/joshuaseymour/joshuaseymour/discussions), open an issue, or use the contact form on [joshuaseymour.com](https://www.joshuaseymour.com) to explore how we can create lasting impact together.
+> **Connect and Collaborate:** Reach out via [GitHub Discussions](https://github.com/joshuaseymour/joshuaseymour/discussions), open an issue, use the contact form, or the social links and contact options on [joshuaseymour.com](https://www.joshuaseymour.com) to explore how we can create lasting impact together.
 
 ---
 
@@ -177,5 +177,5 @@ A: Choose your path, join the DAO(s), and connect with the community. Onboarding
 ## Contact
 
 - [GitHub Discussions](https://github.com/joshuaseymour/joshuaseymour/discussions)
-- [Website Contact Form](https://www.joshuaseymour.com/contact)
+- [Website Contact Form & Social Links](https://www.joshuaseymour.com)
 - [Open an Issue](https://github.com/joshuaseymour/joshuaseymour/issues)
