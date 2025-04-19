@@ -1,84 +1,36 @@
-# Joshua Seymour — Architecting Positive-Sum Networks
+## 🧭 Value Propositions
 
-Welcome. I’m Joshua Seymour, a builder of transformative digital communities and positive-sum ecosystems. My work spans two ambitious projects—each with its own world, audience, and potential.
+Neothink DAO and Avolve DAO are designed for people already on the path—ambitious, growth-oriented, and seeking to go further, faster, forever.
 
----
-
-## 🚀 Neothink DAO: The Network of Transformation
-
-**Neothink DAO** powers four distinct, next-generation platforms—each designed for people already on their journey of growth, seeking to go further, faster, forever:
-
-- **Ascenders** — For those building wealth and business mastery.
-- **Neothinkers** — For those deepening happiness, knowledge, and fulfillment.
-- **Immortals** — For those maximizing health, longevity, and self-leadership.
-- **Neothink+ Hub** — The unifying gateway for all, at [go.neothink.io](https://go.neothink.io).
-
-**Each app is a standalone experience, but together they form a network state for those who want more—wealth, happiness, health, and luck—at an accelerated pace.**
-
-### Value Proposition
-
-| Platform       | For Whom?      | Core Value/Outcome              | Why Engage/Pay?              | Monetization Model        |
-|----------------|----------------|---------------------------------|------------------------------|--------------------------|
-| Ascenders      | Entrepreneurs, Value Creators  | Accelerate wealth, business mastery | Access to elite tools, community, weekly masterminds | Subscription ($99/mo), token rewards |
-| Neothinkers    | Knowledge Seekers, Thinkers | Accelerate happiness, fulfillment | Exclusive courses, mentorship, events | Subscription ($99/mo), token rewards |
-| Immortals      | Longevity Seekers, Self-Leaders | Accelerate health, longevity | Health protocols, research, anti-aging tools | Subscription ($99/mo), token rewards |
-| Neothink+ Hub  | All            | Synergy, cross-platform rewards | Unified dashboard, leaderboards, gamified progression | Freemium, upsell to apps |
-| Superachievers | All 3 above    | Go further, faster, forever     | Unlock Avolve, advanced features, status | $297/mo (all 3), Avolve access |
+| Platform       | For Whom?      | Core Value/Outcome              | Why Engage/Pay?              |
+|----------------|----------------|---------------------------------|------------------------------|
+| Ascenders      | Entrepreneurs, Value Creators  | Accelerate wealth & business mastery | Elite tools, community, weekly masterminds, actionable game mechanics ([see how it works](https://github.com/neothink-dao/neothink.io/blob/main/docs/onboarding/ascender.md)) |
+| Neothinkers    | Knowledge Seekers, Thinkers | Accelerate happiness & fulfillment | Exclusive courses, mentorship, events, progression rewards ([see how it works](https://github.com/neothink-dao/neothink.io/blob/main/docs/onboarding/neothinker.md)) |
+| Immortals      | Longevity Seekers, Self-Leaders | Accelerate health & longevity | Health protocols, research, anti-aging tools, gamified health quests ([see how it works](https://github.com/neothink-dao/neothink.io/blob/main/docs/onboarding/immortal.md)) |
+| Neothink+ Hub  | All            | Synergy, cross-platform rewards | Unified dashboard, leaderboards, gamified progression |
+| Superachievers | All 3 above    | Go further, faster, forever     | Unlock Avolve, advanced features, status ([see how it works](https://github.com/neothink-dao/neothink.io/blob/main/docs/onboarding/superachiever.md)) |
+| Avolve         | Superachievers & Regen Leaders | Co-create the superpuzzle, shape the future | Advanced tools, governance, regenerative economy, global impact |
 
 ---
 
-## 🌌 Avolve DAO: The Superachiever’s Playground
+## 💸 Business Model
 
-**Avolve** is a separate but interoperable ecosystem—built for the world’s emerging and established Superachievers.
+- **Subscription:** $99/mo per app (Ascenders, Neothinkers, Immortals) or $297/mo for all three (Superachiever status, Avolve access).
+- **Tokenomics:** Earn, spend, and stake tokens (GEN, SAP, SCQ, etc.) for influence, rewards, and marketplace access.
+- **Premium Offerings:** Workshops, masterminds, exclusive content, and special events.
+- **DAO Treasury:** Revenue is transparently distributed to contributors, builders, and the community via on-chain governance.
+- **Freemium Hub:** The Neothink+ Hub is free to explore, with upsell to deeper journeys.
 
-- **Avolve** stands on its own: a platform for those who want to create their personal “success puzzle” and co-create our collective “superpuzzle.”
-- **Open to all Superachievers**—whether you come through Neothink+ or arrive from elsewhere.
-
-### Value Proposition
-
-- **For Superachievers:**  
-  - Accelerate your journey from “Degen” (zero-sum) to “Regen” (positive-sum).
-  - Unlock advanced tools, governance, and co-creation opportunities.
-  - Participate in a regenerative, metrics-driven, tokenized economy.
-
-### Business Model
-
-- **Subscription:** Direct access to advanced features and communities.
-- **Tokenomics:** Earn, spend, and stake tokens (GEN, SAP, SCQ, and more) for influence, rewards, and marketplace access.
-- **Premium Offerings:** Workshops, masterminds, and exclusive content.
-- **DAO Treasury:** Revenue is distributed to contributors, builders, and the community via transparent governance.
+**See [Onboarding & Game Guides](https://github.com/neothink-dao/neothink.io/tree/main/docs/onboarding) and [Business Architecture](https://github.com/neothink-dao/neothink.io/blob/main/docs/architecture/README.md) for details.**
 
 ---
 
-## 🧭 Choose Your Adventure
+## 🚀 Why This Is Different
 
-- Interested in wealth? Start with Ascenders.
-- Seeking happiness? Explore Neothinkers.
-- Focused on longevity? Join Immortals.
-- Want it all? The Neothink+ Hub unifies your journey.
-- Ready to build the future? Step into Avolve.
-
----
-
-## 👀 Why This Matters
-
-- **For users:** Immediate value, tailored to your goals—no beginners, just ambitious people ready to accelerate.
-- **For builders:** Open source, modular, and ready for contribution.
-- **For investors:** A scalable architecture, clear network effects, and a vision for network states that can become global movements.
-
----
-
-## 📈 What’s Next?
-
-- [Learn more about Neothink DAO](https://github.com/neothink-dao/neothink.io)
-- [Discover Avolve DAO](https://github.com/avolve-dao/avolve)
-- [Connect with Joshua Seymour](https://www.joshuaseymour.com)
-
----
-
-## 🌄 About Joshua Seymour
-
-I build and lead transformative communities and platforms—within organizations and as a founder. My approach is grounded in authentic leadership, innovation, and a passion for empowering others to thrive together.
+- **For people already on the path:** No beginner fluff—just acceleration.
+- **Game mechanics with real rewards:** Points, tokens, and governance have tangible value and unlock new levels.
+- **Network state vision:** Each app can stand alone or connect for greater synergy and network effects.
+- **Open, extensible, and transparent:** Modular monorepo, open source, and DAO-governed.
 
 ---
 
