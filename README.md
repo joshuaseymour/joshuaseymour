@@ -38,7 +38,9 @@ I thrive in global, collaborative environments—online and offline—and am alw
 
 ## Neothink DAO: Ecosystem Overview
 
-Neothink DAO unites Ascenders, Neothinkers, and Immortals in a synergistic ecosystem designed for prosperity, happiness, and longevity.
+Neothink DAO unites **Ascenders**, **Neothinkers**, and **Immortals** in a synergistic ecosystem designed for prosperity, happiness, and longevity.
+
+Learn more about the technology powering Neothink DAO: [Optimism](https://www.optimism.io/)
 
 ```mermaid
 graph TD
@@ -58,6 +60,10 @@ graph TD
 ---
 
 ## Avolve: The Supercivilization Journey
+
+Avolve DAO is for **Superachievers**—regen-minded founders, entrepreneurs, and builders who want to co-create a positive-sum society from day one.
+
+Avolve pioneers with emerging web3/blockchain technology, including [Psibase](https://psibase.io/).
 
 Avolve is designed to help individuals, collectives, and the entire ecosystem transform from Degen (zero-sum) to Regen (positive-sum), unlocking greater health, wealth, and peace for all. The journey is structured as:
 
