@@ -12,6 +12,15 @@
 
 ---
 
+## Which Path Is For You?
+
+| Path             | Best For...                                                                 | You’ll Thrive If...                                                                                       |
+|------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Neothink DAO** | Ascenders, Neothinkers, Immortals—builders and thinkers seeking prosperity, happiness, longevity in established, evolving communities. | You value progressive journeys, unified rewards, and shaping the next evolution of proven networks.        |
+| **Avolve DAO**   | Superachievers—regen-minded founders, ambitious builders, and pioneers ready to co-create from the ground up. | You want to launch new models, lead collective quests, and help build a regenerative supercivilization.    |
+
+---
+
 ## Table of Contents
 
 - [Neothink DAO: Ecosystem Overview](#neothink-dao-ecosystem-overview)
