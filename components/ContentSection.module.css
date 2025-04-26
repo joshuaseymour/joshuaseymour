@@ -1,0 +1,211 @@
+.customGradientButton {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 120px;
+  width: 100%;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+.customGradientButton::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  opacity: var(--button-opacity, 1);
+  transition: opacity 0.3s ease;
+}
+
+/* .customGradientButton:hover::before {
+  --button-opacity: 0.8;
+} */
+
+/* .hoverOverlay {
+  position: absolute;
+  inset: 0;
+  background-color: black;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.customGradientButton:hover .hoverOverlay {
+  opacity: 0.2;
+} */
+
+.buttonContent {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 100%;
+}
+
+.buttonTitle {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.2;
+  color: white;
+  text-align: center;
+  margin-bottom: 0.25rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+.buttonDescription {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.2;
+  color: white;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+.superachieverGradient::before {
+  background: linear-gradient(
+    to right,
+    #994d33,
+    #995533,
+    #995e33,
+    #996633,
+    #996f33,
+    #997733,
+    #998033,
+    #338099,
+    #337799,
+    #336f99,
+    #336699,
+    #335e99,
+    #335599,
+    #334d99
+  );
+}
+
+.supercivilizationGradient::before {
+  background: linear-gradient(to right, #993366, #993333, #996633, #999933, #339966, #339999, #336699, #333399, #663399);
+}
+
+.neothinkGradient::before {
+  background: radial-gradient(circle, #cc9933, #996600);
+}
+
+.individualsGradient::before {
+  background: linear-gradient(to right, #993366, #993333, #996633);
+}
+
+.collectivesGradient::before {
+  background: linear-gradient(to right, #999933, #339966, #339999);
+}
+
+.ecosystemGradient::before {
+  background: linear-gradient(to right, #336699, #333399, #663399);
+}
+
+.ascensionGradient::before {
+  background: radial-gradient(circle, #333399, #993333);
+}
+
+.immortalisGradient::before {
+  background: radial-gradient(circle, #993366, #663399);
+}
+
+@media (min-width: 640px) {
+  .buttonTitle {
+    font-size: 18px;
+  }
+  .buttonDescription {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) {
+  .buttonTitle {
+    font-size: 16px;
+  }
+  .buttonDescription {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 992px) {
+  .buttonTitle {
+    font-size: 18px;
+  }
+  .buttonDescription {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .buttonTitle {
+    font-size: 20px;
+  }
+  .buttonDescription {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .buttonTitle {
+    font-size: 26px;
+  }
+  .buttonDescription {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 640px) {
+  .customGradientButton::before {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 360px) {
+  .buttonTitle {
+    font-size: 20px;
+  }
+  .buttonDescription {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 639px) {
+  .buttonTitle {
+    font-size: 20px;
+  }
+  .buttonDescription {
+    font-size: 18px;
+  }
+}
+
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  }
+  50% {
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+  }
+  100% {
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  }
+}
+
+.customGradientButton:hover .buttonTitle,
+.customGradientButton:hover .buttonDescription {
+  animation: glow 1.5s ease-in-out infinite;
+}

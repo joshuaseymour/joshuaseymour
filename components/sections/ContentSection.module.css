@@ -1,0 +1,183 @@
+.customGradientButton {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 120px;
+  width: 100%;
+  border-radius: 1rem;
+  overflow: hidden;
+  text-decoration: none;
+  padding: 1rem;
+  transition: all 0.3s ease;
+}
+
+.darkModeButton {
+  background: linear-gradient(to right, #57534e, #44403c);
+}
+
+.darkModeButton:hover {
+  background: linear-gradient(to right, #44403c, #292524);
+}
+
+.buttonContent {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 100%;
+}
+
+.buttonTitle {
+  font-size: clamp(16px, 4vw, 22px);
+  font-weight: bold;
+  line-height: 1.2;
+  color: white;
+  text-align: center;
+  margin-bottom: 0.25rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+.buttonDescription {
+  font-size: clamp(14px, 3vw, 18px);
+  font-weight: 500;
+  line-height: 1.2;
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+.superachieverGradient {
+  background: linear-gradient(to right, #57534e, #44403c, #292524);
+}
+
+.neothinkGradient {
+  background: radial-gradient(circle, #57534e, #44403c);
+}
+
+.supercivilizationGradient {
+  background: linear-gradient(to right, #64748b, #475569, #334155);
+}
+
+.individualsGradient {
+  background: linear-gradient(to right, #57534e, #44403c, #292524);
+}
+
+.collectivesGradient {
+  background: linear-gradient(to right, #64748b, #475569, #334155);
+}
+
+.ecosystemGradient {
+  background: linear-gradient(to right, #475569, #334155, #1e293b);
+}
+
+.ascensionGradient {
+  background: radial-gradient(circle, #334155, #44403c);
+}
+
+.neothinkersGradient {
+  background: radial-gradient(circle, #57534e, #44403c);
+}
+
+.immortalisGradient {
+  background: radial-gradient(circle, #64748b, #334155);
+}
+
+.superachieverGradient:hover,
+.neothinkGradient:hover,
+.supercivilizationGradient:hover,
+.individualsGradient:hover,
+.collectivesGradient:hover,
+.ecosystemGradient:hover,
+.ascensionGradient:hover,
+.neothinkersGradient:hover,
+.immortalisGradient:hover {
+  opacity: 0.9;
+}
+
+@media (prefers-color-scheme: dark) {
+  .superachieverGradient {
+    background: linear-gradient(to right, #292524, #1c1917, #0c0a09);
+  }
+
+  .neothinkGradient {
+    background: radial-gradient(circle, #292524, #1c1917);
+  }
+
+  .supercivilizationGradient {
+    background: linear-gradient(to right, #334155, #1e293b, #0f172a);
+  }
+
+  .individualsGradient {
+    background: linear-gradient(to right, #292524, #1c1917, #0c0a09);
+  }
+
+  .collectivesGradient {
+    background: linear-gradient(to right, #334155, #1e293b, #0f172a);
+  }
+
+  .ecosystemGradient {
+    background: linear-gradient(to right, #1e293b, #0f172a, #020617);
+  }
+
+  .ascensionGradient {
+    background: radial-gradient(circle, #0f172a, #1c1917);
+  }
+
+  .neothinkersGradient {
+    background: radial-gradient(circle, #292524, #1c1917);
+  }
+
+  .immortalisGradient {
+    background: radial-gradient(circle, #334155, #0f172a);
+  }
+
+  .superachieverGradient:hover,
+  .neothinkGradient:hover,
+  .supercivilizationGradient:hover,
+  .individualsGradient:hover,
+  .collectivesGradient:hover,
+  .ecosystemGradient:hover,
+  .ascensionGradient:hover,
+  .neothinkersGradient:hover,
+  .immortalisGradient:hover {
+    opacity: 0.8;
+  }
+}
+
+@media (max-width: 640px) {
+  .customGradientButton {
+    min-height: 100px;
+    padding: 0.75rem;
+  }
+
+  .buttonTitle {
+    font-size: 18px;
+  }
+
+  .buttonDescription {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 768px) {
+  .customGradientButton {
+    min-height: 110px;
+  }
+}
+
+@media (min-width: 769px) {
+  .customGradientButton {
+    min-height: 120px;
+  }
+}
